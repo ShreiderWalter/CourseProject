@@ -30,22 +30,12 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {1.4.2.1}Динамика вращательного движения}{12}{subsubsection.1.4.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\xpg@select@fontfamily {russian}Глава 2 {} Геометрия твердых тел}{14}{chapter.2}
+\contentsline {chapter}{\xpg@select@fontfamily {russian}Глава 2 {} Создание игры}{14}{chapter.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Геометрические примитивы}{14}{section.2.1}
+\contentsline {section}{\numberline {2.1}Технологии, выбранные для разработки под Android OS}{14}{section.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}Контакт геометрических тел}{14}{section.2.2}
+\contentsline {section}{\numberline {2.2}Компоненты User Interface}{16}{section.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.1}Обнаружение столкновений}{14}{subsection.2.2.1}
+\contentsline {chapter}{Заключение}{17}{chapter*.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.2}Реагирование на столкновение}{16}{subsection.2.2.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Разрешение контакта}{17}{section.2.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.1}Метод \textit {Sequential Impulses}}{18}{subsection.2.3.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.3.1.1}Случай упругого соударения}{20}{subsubsection.2.3.1.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Заключение}{21}{chapter*.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Литература}{21}{chapter*.3}
+\contentsline {chapter}{Литература}{17}{chapter*.3}
